@@ -1,4 +1,3 @@
-Absolutely! Here's a polished and engaging `README.md` for your **Particle Morphing Simulator** project:
 
 ---
 
@@ -93,4 +92,4 @@ MIT License – Free to use, remix, and evolve. Attribution appreciated.
 
 ---
 
-Let me know if you'd like a more minimalist version or something tailored for a portfolio presentation!
+Discord: ._rayzz
