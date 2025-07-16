@@ -70,12 +70,18 @@ cd particle-morphing-simulator
 
 ## 📸 Screenshots
 
-> https://cdn.discordapp.com/attachments/1386729254452203684/1395074164888436981/DD43A0CE-CAD7-4957-912E-DE67996BE29D.png?ex=68791f90&is=6877ce10&hm=18ea80e82adee4ab98d98f1ddbd5756a355d3cd5355d5301368b174bffc692d1&
-> https://cdn.discordapp.com/attachments/1386729254452203684/1395074253031735347/9B2A46B5-D889-438A-911D-8CC64EE4A4F4.png?ex=68791fa5&is=6877ce25&hm=50d9f157825370a97f759c9f9e933a4986f985312496c5444eadc1b816f329f4&
-> https://cdn.discordapp.com/attachments/1386729254452203684/1395074343679168522/52FF425C-5DC9-4056-A149-9751D22EC81A.png?ex=68791fba&is=6877ce3a&hm=b558ee4fe38ba5fe98b79dd3d9ec9371281ac8c09054feb386f3ced4a139a48d&
-> https://cdn.discordapp.com/attachments/1386729254452203684/1395074446749990962/442566F2-432C-4260-AF4E-B6DDF6927690.png?ex=68791fd3&is=6877ce53&hm=0844bb90b8ee916dfb00e7ca16acee2a9e2a7ae715bc379a9316a348d50e2f02&
-> https://cdn.discordapp.com/attachments/1386729254452203684/1395074551792140298/109FBD28-80CF-49F0-8B3F-61C1F8411CF1.png?ex=68791fec&is=6877ce6c&hm=72ddc7f3647a623dd0317002b33e9262ed0fcea41c7010d64c2d977bd470afc2&
-> https://cdn.discordapp.com/attachments/1386729254452203684/1395074681769558016/BF5A1724-5241-4619-B455-86D99ADEC7C0.png?ex=6879200b&is=6877ce8b&hm=4863dcfc4044180852d1c6d622aa324f354fd179a9edb86a8ff621d8aba3875c& 
+> <img width="1866" height="894" alt="image" src="https://github.com/user-attachments/assets/dfdaf53d-366a-4834-8739-0b9bca73b782" />
+
+> <img width="1866" height="895" alt="image" src="https://github.com/user-attachments/assets/5065f024-1867-404d-ad53-d70d19281700" />
+
+> <img width="1866" height="886" alt="image" src="https://github.com/user-attachments/assets/dac96eef-d1e5-4284-9650-0621f6428545" />
+
+> <img width="1867" height="889" alt="image" src="https://github.com/user-attachments/assets/2f3b9066-f856-42aa-bd17-8a45b5366b84" />
+
+> <img width="1867" height="892" alt="image" src="https://github.com/user-attachments/assets/45cca31f-6853-429f-bc69-e78c8748f038" />
+
+> <img width="1867" height="900" alt="image" src="https://github.com/user-attachments/assets/78e9d23a-4796-4985-bb0a-53f9dc388c3e" />
+
 
 ---
 
